@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Aplikasi Ujian Esai AI",
+  "description": "Aplikasi ujian esai berbasis web yang memungkinkan admin (guru) untuk mengelola bank soal dan jadwal ujian, serta siswa untuk mengerjakan ujian. Penilaian esai dilakukan secara otomatis menggunakan AI (Gemini).",
+  "requestFramePermissions": []
+}
